@@ -1,7 +1,5 @@
 # Web Ninja
 
-Courses List
-
 UNIX Basics (optional) - can skip
 
 Git Basics (optional) - can skip
