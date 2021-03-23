@@ -181,3 +181,9 @@ Prototypal inhertence
 class
 
 Iterators
+
+## 4. Make Web Faster?
+
+Optimization
+
+## 5. Node.js
