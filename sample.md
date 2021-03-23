@@ -42,7 +42,7 @@ folder structure
 
 apt / package managers
 
-Advanced ( optional - can skip) - nginx setup / sed / awk
+Advanced ( optional - can skip) - nginx setup - to show devloper /etc/log and /var/configs/ - why nginx / sed / awk
 
 ## 2. Git Basics - 1 hr
 
