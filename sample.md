@@ -88,6 +88,8 @@ Advanced ( optional) - SASS, Animation
 
 Why JS?
 
+JS at the bottom? why
+
 basic js
 
 script tag
