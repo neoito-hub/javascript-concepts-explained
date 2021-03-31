@@ -25,7 +25,7 @@ This is the output for the above example
 
 So by analyzing the output.
 
-* By definition of hoisting, the variable and function declarations referenced at compile time, hence as the program executes and calls `hello()` mehod it knows where the method is declared below in our code.
+* By definition of hoisting, the variable and function declarations referenced at compile time, hence as the program executes and calls `hello()` method becasue it knows that the method is declared below in our code.
 
 * Notice the first `console.log(x)` prints **undefined**. This is because hoisting only hoist the variable decalrations to top of the context not the initializations. Initialization only happens at the point where you initialize the variable. So you can see the value **11** is printed on the second `console.log(x)` as the varibale `x` is just initialized above.
 
