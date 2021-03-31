@@ -1,6 +1,6 @@
 # Hoisting
 
-     By literal meaning, hoisting means to raise or lift somthing using a tool.
+     By literal meaning, hoisting means to raise or lift something using a tool.
 
 ## Hoisting in Javascript
 
