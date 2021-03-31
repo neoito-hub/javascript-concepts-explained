@@ -28,10 +28,10 @@ Call by reference applies to non primitive data types like **Object and Array**.
             obj.a = 2;
             obj.b = 1;
         }
-        console.log('Inside foo: ', "num: "num, "obj: "obj);
+        console.log('Inside foo: ', "num: "num, "obj: ",obj);
     }
 
-    console.log('After calling foo: ', "num: "num, "obj: "obj);
+    console.log('After calling foo: ', "num: "num, "obj: ",obj);
 ```
 
 The output for above example is
