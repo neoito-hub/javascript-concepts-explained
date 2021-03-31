@@ -29,21 +29,13 @@ So by analyzing the output.
 
 * Notice the first `console.log(x)` prints **undefined**. This is because hoisting only hoist the variable decalrations to top of the context not the initializations. Initialization only happens at the point where you initialize the variable. So you can see the value **11** is printed on the second `console.log(x)` as the varibale `x` is just initialized above.
 
-## Important points
+## An Important point
 
 * `let` and `const` declarations are an exception to hoisting. You must declare them before accessing. The below example will throw  reference error.
 
 ```js
     console.log(num);
     let num  = 100;
-```
-
-* Although `let` and `const` are an exception. You cannot re-declare a hoisted variable using them (*why would anyone do that :)* &nbsp;) . Because `let` and `const` shares the same context that the hoisting is bounded on. Hence the below example will throw a declaration error
-
-```js
-    const a = 5;
-    console.log(a);
-    var a;
 ```
 
 ## References
